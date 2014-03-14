@@ -1,0 +1,8 @@
+# Build stuff
+/.rust
+/lib
+
+# Misc stuff
+.*
+!.gitignore
+!.gitmodules
